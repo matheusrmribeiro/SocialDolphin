@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Social Dolphin</string>
+    <string name="app_request_default_error">Unable to process request!</string>
+    <string name="back">Back</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+
+    <!-- Timeline -->
+    <string name="timeline_profile_description">My profile</string>
+    <string name="timeline_repost">Repost</string>
+    <string name="timeline_quote">Quote</string>
+
+    <!-- New post -->
+    <string name="newpost_header">What\'s in your mind?</string>
+    <string name="newpost_hint">Tell us what\'s happening</string>
+    <string name="newpost_create">Create</string>
+    <string name="newpost_create_success">Post created successfully!</string>
+    <string name="newpost_create_error">You are able to create up to 5 posts a day.</string>
+
+    <!-- Profile -->
+    <string name="profile_posts">My posts</string>
+    <string name="profile_joined">Joined in %s</string>
+    <string name="profile_posts_count">Posts: %s</string>
+    <string name="profile_reposts_count">Reposts: %s</string>
+    <string name="profile_quotes_count">Quotes: %s</string>
+</resources>
