@@ -6,6 +6,8 @@ A portfolio project to show my knowledge about kotlin development for Android.
 A social media similar to Twitter made for dolphins to communicate and talk about their day and life stuffs.
 With this application they can create posts with a limited amount of characters and repost others' posts; Also they can quote a post giving their opinion about that thing.
 
+**ATTENTION** All user's data are mocked and there are some mocked posts but you can create some new posts.
+
 ## Technologies
 
 The project was structured based on **Clean Architecture** using **MVVM**.
